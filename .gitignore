@@ -1,0 +1,4 @@
+.venv/
+*.task
+__pycahce__/
+.vscode/
